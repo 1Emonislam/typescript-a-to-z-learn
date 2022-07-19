@@ -1,1 +1,1 @@
-let a: string = "abc";
+let a: string = "abcd";
